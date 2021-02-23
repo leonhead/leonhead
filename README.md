@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leonhead
-- 👀 I’m interested in deep learning, micro-services, spring
+- 👀 I’m interested in machine learning, cloud
 - 🌱 I’m currently learning docker, kubernetes
 
 
